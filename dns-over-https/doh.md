@@ -6,7 +6,7 @@ eth.limo provides an RFC 8484 comptaible public DoH API which can be accessed at
 
 * https://dns.eth.limo/dns-query
 
-Currently we only support DNSLink `TXT` records due to client limitations for handling  other record types which are dervied from an ENS contenthash.
+Currently we only support DNSLink `TXT` records due to client limitations for handling  other record types which are derived from an ENS contenthash.
 
 **What is DNSLink?**
 
